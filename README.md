@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/gooduselabs">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tr%E1%BA%A7n+%C4%90%E1%BB%A9c+H%E1%BA%A3i+%F0%9F%91%8B;SCADA+%26+Industrial+Automation;Building+a+hydropower+SCADA+simulator+%E2%9A%A1;Founder+%40+GoodUse+Labs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tr%E1%BA%A7n+%C4%90%E1%BB%A9c+H%E1%BA%A3i+%F0%9F%91%8B;SCADA+%26+Industrial+Automation;Building+a+hydropower+SCADA+simulator+%E2%9A%A1;Building+at+GoodUse+Labs" alt="Typing SVG" />
   </a>
 </p>
 
